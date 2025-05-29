@@ -3,7 +3,7 @@
 using namespace std;
 
 void func(int i){
-	cout<<"Arvin Amiri "<< i <<endl;
+	cout<<"Mehdi Feshki "<< i <<endl;
 }
 
 int main(){
